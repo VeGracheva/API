@@ -1,7 +1,7 @@
 # API
 
 # Тестирование API
- - [Ссылка на коллекцию](https://www.postman.com/veragra/workspace/qa-demoshopping-g-10/collection/41545716-071dc6be-2824-4107-b415-d15397891c7e?action=share&creator=41545716&active-environment=41545716-810f9c5b-5e62-47ed-8da9-43afe49e731f)
+- [Ссылка на коллекцию](https://www.postman.com/veragra/workspace/qa-demoshopping-g-10/collection/41545716-071dc6be-2824-4107-b415-d15397891c7e?action=share&creator=41545716&active-environment=41545716-810f9c5b-5e62-47ed-8da9-43afe49e731f)
 
 
 Тестирование SOAP
